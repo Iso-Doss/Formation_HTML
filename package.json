@@ -1,0 +1,8 @@
+{
+    "name": "Formation_HTML",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Agence Karth",
+    "contributors": [],
+    "dependencies": {}
+}

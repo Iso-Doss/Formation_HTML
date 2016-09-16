@@ -1,0 +1,13 @@
+{
+    "name": "vendor/projet",
+    "description": "projet html",
+    "authors": [
+        {
+            "name": "Iso-Doss",
+            "email": "dossou.israel48@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^4.8"
+    }
+}
